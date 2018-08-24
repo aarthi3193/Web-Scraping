@@ -1,0 +1,20 @@
+Gene Siskel	fresh	Chicago Tribune	 August 23, 2017	110
+Tim Brayton	rotten	Antagony & Ecstasy	 December 4, 2016	85
+Duane Byrge	fresh	Hollywood Reporter	 November 15, 2016	233
+Jami Bernard	fresh	New York Daily News	 November 14, 2015	152
+Brian Orndorf	rotten	BrianOrndorf.com	 April 5, 2012	102
+David Nusair	rotten	Reel Film Reviews	 January 3, 2012	31
+Peter Canavese	rotten	Groucho Reviews	 October 14, 2011	108
+David Gurney	fresh	Common Sense Media	 January 1, 2011	48
+Jonathan Rosenbaum	fresh	Chicago Reader	 March 24, 2008	210
+NA	fresh	Film4	 March 24, 2008	221
+NA	rotten	TV Guide	 March 24, 2008	151
+Todd McCarthy	fresh	Variety	 March 24, 2008	236
+Rita Kempley	rotten	Washington Post	 March 24, 2008	21
+NA	rotten	Time Out	 June 24, 2006	165
+Robin Clifford	rotten	Reeling Reviews	 April 9, 2005	69
+Judith Egerton	fresh	Courier-Journal (Louisville, KY)	 June 23, 2004	123
+Ryan Cracknell	rotten	Apollo Guide	 March 7, 2004	130
+John J. Puccio	rotten	Movie Metropolis	 November 10, 2003	88
+Janet Maslin	rotten	New York Times	 May 20, 2003	77
+Robert Roten	rotten	Laramie Movie Scope	 March 16, 2003	80
